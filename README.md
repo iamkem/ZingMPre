@@ -11,10 +11,14 @@
 
 # About
 
-# <img src=".github/example_2.png" draggable="false" height="300"><br> 
+# <img src=".github/example_2.png" draggable="false" height="300"><br>
+
+
 
 **ZingMPre** is a simple show what you're playing on the **Zing Mp3** web in your Discord.
 
 # Installation
 . Install the [extension](https://addons.mozilla.org/vi/firefox/addon/zingmp3-discord-presence/). <br>
-. Download & install the latest version of [ZingMPre](https://github.com/badkem/ZingMPre/releases) application. <br>
+. Download the latest version of [ZingMPre](https://github.com/badkem/ZingMPre/releases) application. <br>
+. Mount the dmg & move to application
+# <img src=".github/example_3.png" draggable="false" height="150"><br>
